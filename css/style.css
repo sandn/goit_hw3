@@ -9,10 +9,6 @@ body {
 width: 970px;
 margin: 0 auto;
 color: #656363;
-
-}
-header{
-
 }
 .header-logo {
   height: 80px;
@@ -122,8 +118,4 @@ aside a {
 .copy{
   float: right;
   padding: 18px;
-}
-
-.clear {
-  clear: both;
 }
