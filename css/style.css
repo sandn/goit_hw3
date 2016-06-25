@@ -70,6 +70,7 @@ aside li:last-child {
 aside li:hover {
   color: #000;
   padding-left: 30px;
+  background-color: #f9f9f9;
 }
 aside a {
   display: block;
